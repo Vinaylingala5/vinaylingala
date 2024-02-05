@@ -1,6 +1,6 @@
 ![MasterHead](https://renoufdesign.files.wordpress.com/2015/05/photochallenge-night-5422-1.jpg?w=1000&h=400&crop=1)
 <h1 align="center">Hi 👋, I'm Vinay Lingala</h1>
-<h3 align="center">A passionate data science enthusiast from India</h3>
+<h3 align="center">A Passionate Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aynaval&label=Profile%20views&color=0e75b6&style=flat" alt="aynaval" /> </p>
