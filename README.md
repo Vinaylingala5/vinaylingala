@@ -1,7 +1,7 @@
 ![MasterHead](https://renoufdesign.files.wordpress.com/2015/05/photochallenge-night-5422-1.jpg?w=1000&h=400&crop=1)
 <h1 align="center">Hi 👋, I'm Vinay Lingala</h1>
 <h3 align="center">A Passionate Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2eOqqrYRxC-yuOYhfq29Ou&ust=1707216656510000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjNndWDlIQDFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on [Web Scraping](https://github.com/aynaval/web_scrapping_bs4)
 
