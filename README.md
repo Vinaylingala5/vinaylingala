@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data**
 
-- 📫 How to reach me **m-lavanya@outlook.com**
+- 📫 How to reach me **vinaybabulingala@gmail.com**
 
 - ⚡ Fun fact **Stories are just data with soul.**
 
