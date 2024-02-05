@@ -3,8 +3,6 @@
 <h3 align="center">A Passionate Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aynaval&label=Profile%20views&color=0e75b6&style=flat" alt="aynaval" /> </p>
-
 - 🔭 I’m currently working on [Web Scraping](https://github.com/aynaval/web_scrapping_bs4)
 
 - 🌱 I’m currently learning **Data science**
