@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/5/50/Verhnee_Shavlinskoe_ozero_panorama.jpg?20090712101958)
 
 <h1 align="center">Hi 👋, I'm Vinay Lingala</h1>
 <h3 align="center">A Passionate Tech Enthusiast</h3>
