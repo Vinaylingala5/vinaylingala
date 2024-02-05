@@ -1,4 +1,4 @@
-![MasterHead](https://renoufdesign.files.wordpress.com/2015/05/photochallenge-night-5422-1.jpg?w=1000&h=400&crop=1)
+![MasterHead](https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png)
 
 <h1 align="center">Hi 👋, I'm Vinay Lingala</h1>
 <h3 align="center">A Passionate Tech Enthusiast</h3>
